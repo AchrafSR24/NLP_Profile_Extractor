@@ -68,4 +68,4 @@ streamlit run appNLP.py
 
 Resultat obtenu:
 
-![Profil](Aassets/profile.png)
+![Profil](Assets/profile.png)
