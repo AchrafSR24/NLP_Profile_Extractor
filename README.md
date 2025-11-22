@@ -69,3 +69,59 @@ streamlit run appNLP.py
 Resultat obtenu:
 
 ![Profil](Assets/profile.png)
+
+### 🧪 Technologies utilisées
+| Technologie         | Rôle                   |
+| ------------------- | ---------------------- |
+| **Python**          | Langage principal      |
+| **spaCy**           | NER / NLP              |
+| **fr_core_news_lg** | Modèle français avancé |
+| **Regex**           | Extraction robuste     |
+| **Streamlit**       | Interface web          |
+| **Requests**        | Avatars IA             |
+
+### 📌 Objectif du projet
+
+Ce projet a été conçu pour :
+
+pratiquer le text mining
+
+comprendre le NER + regex hybrides
+
+construire une application NLP complète
+
+obtenir un pipeline clair : Nettoyage → Normalisation → Extraction → UI
+
+Il peut être utilisé dans :
+
+onboarding utilisateurs
+
+analyse de CV
+
+formulaires intelligents
+
+assistants RH ou IA
+
+### 📬 Auteur
+
+👤 Achraf Sakka Rouis
+Étudiant en Data Science & Intelligence Artificielle
+Projet réalisé pour un travail universitaire & pratique NLP.
+
+### ⭐ Contribuer
+
+Les contributions sont les bienvenues.
+N’hésitez pas à proposer :
+
+amélioration du modèle NER
+
+ajout de nouvelles entités (skills, nationalité…)
+
+meilleure interface Streamlit
+
+support multilingue
+
+### 📄 Licence
+
+Ce projet est sous licence MIT.
+Vous êtes libre de le réutiliser, le modifier et le distribuer.
